@@ -1,14 +1,6 @@
 Temiloluwa Abiodun-Ojo
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 taiwo
-=======
 Seun Ojo
->>>>>>> 62c25ef8384fa9c1b5d18791ecf9cc1c5c53f63a
-=======
-Akeju Joel
-Seun Ojo
+Toyib Oladejo
 Ogunwole Emmanuel oluwapelumi
-
->>>>>>> 942e3b69c6c484b0ffea9a79501969a40f4d232d
+Akeju Joel
